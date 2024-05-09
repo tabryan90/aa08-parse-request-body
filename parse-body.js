@@ -4,7 +4,14 @@ function firstStep(input) {
 }
 
 function secondStep(input) {
-  // Your code here
+  let res = [];
+
+  input.forEach(element => {
+    let el = element.split('=');
+    res.push(el);
+  });
+
+  return res;
 }
 
 function thirdStep(input) {
