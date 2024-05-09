@@ -1,25 +1,26 @@
 function firstStep(input) {
-  // Your code here 
+  let res = input.split('&');
+  return res;
 }
 
 function secondStep(input) {
-  // Your code here 
+  // Your code here
 }
 
 function thirdStep(input) {
-  // Your code here 
+  // Your code here
 }
 
 function fourthStep(input) {
-  // Your code here 
+  // Your code here
 }
 
 function fifthStep(input) {
-  // Your code here 
+  // Your code here
 }
 
 function parseBody(str) {
-  // Your code here 
+  // Your code here
 }
 
 /******************************************************************************/
